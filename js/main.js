@@ -1,5 +1,5 @@
 /*
- * Nugget Name: JavaScript interactive experience SVG colored lines interact with mousemove (taken from bezier.method.ac)
+ * Nugget Name: JavaScript interactive experience, SVG colored lines interact with mousemove (taken from bezier.method.ac)
  * Nugget URL: #
  * Author: Obada Qawwas
  * Author URL: http://www.onyxdev.net/
