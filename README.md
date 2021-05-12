@@ -12,7 +12,7 @@ So today I’m sharing it with you hoping you may find it useful as I did 😇
 
 ## Credits
 
-[The Bézier Game](http://bezier.method.ac/)
-[TweenMax](https://greensock.com/tweenmax)
-[Husl.js](https://github.com/calebegg/husl)
-[Pathseg.js](https://github.com/progers/pathseg)
+[The Bézier Game](http://bezier.method.ac/)<br />
+[TweenMax](https://greensock.com/tweenmax)<br />
+[Husl.js](https://github.com/calebegg/husl)<br />
+[Pathseg.js](https://github.com/progers/pathseg)<br />
